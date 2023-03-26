@@ -1,0 +1,39 @@
+*body{
+    padding: 0;
+    margin: 0;
+}
+.clock_wrapper{
+    background-image: linear-gradient(to right,rgb(79, 13, 232),rgb(177, 11, 91));
+    height: 800px;
+    width: 100%;
+    margin-top: -35px;
+}
+.heading h1 {
+    font-size: 50px;
+    margin-left: 40%;
+    color: #fff;
+    padding-top: 90px;
+}
+.clock_card img{
+     width: 400px;
+     height: auto;
+     border-radius: 30px;
+     margin-left: 38%;
+}
+.clock_card p {
+    position: absolute;
+    z-index: 100;
+    color:black;
+    top: 45%;
+    font-size: 33px;
+    left: 46%;
+}
+/* .clock_card {
+    border-radius: 30px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 400px;
+    height: 600px;
+    margin-left: 38%;
+    background-color: rgb(216, 218, 236);
+} */
