@@ -7,6 +7,7 @@
     height: 800px;
     width: 100%;
     margin-top: -35px;
+    background-position: center center;
 }
 .heading h1 {
     font-size: 50px;
@@ -18,15 +19,15 @@
      width: 400px;
      height: auto;
      border-radius: 30px;
-     margin-left: 38%;
+     margin-left: 570px;
 }
 .clock_card p {
     position: absolute;
     z-index: 100;
     color:black;
-    top: 45%;
+    top: 341px;
     font-size: 33px;
-    left: 46%;
+    left: 704px;
 }
 /* .clock_card {
     border-radius: 30px;
